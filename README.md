@@ -18,7 +18,7 @@ Research Scientist
 
 ### Socials
 
-- ![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg) [GitHub](https://www.github.com/admir-selimovic)
-- ![Instagram](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg) [Instagram](http://www.instagram.com/admir.slmvc)
-- ![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg) [LinkedIn](https://www.linkedin.com/in/admir-selimovic)
-- ![Twitter](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg) [Twitter](https://www.x.com/admir_slmvc)
+<a href="https://www.github.com/admir-selimovic" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="32" height="32"/></a>
+<a href="http://www.instagram.com/admir.slmvc" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="Instagram" width="32" height="32"/></a>
+<a href="https://www.linkedin.com/in/admir-selimovic" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="32" height="32"/></a>
+<a href="https://www.x.com/admir_slmvc" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" alt="Twitter" width="32" height="32"/></a>
