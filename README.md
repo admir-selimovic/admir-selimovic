@@ -13,7 +13,7 @@ Research Scientist
 ### 🧪 Currently working on: Geometric Cell Complex Neural Networks
 
 <div align="center"> 
-  <img src="./gcxnn.png" width="300" height="300">
+  <img src="./gcxnn.png" width="400" height="400">
 </div>
 
 
