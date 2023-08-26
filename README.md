@@ -8,6 +8,9 @@ Research Scientist
 * 🌍  I'm based in Zurich, Switzerland
 * ✉️  You can contact me at [admirselimovic@gmail.com](mailto:admirselimovic@gmail.com)
 
+
+<img src="./gcxnn.png" width="400" height="400">
+
 ### Skills
 
 
