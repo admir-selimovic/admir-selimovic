@@ -18,7 +18,7 @@ Research Scientist
 </div>
 
 
-### Skills
+### Stack
 
 
 <p align="left">
