@@ -14,7 +14,7 @@ Research Scientist
 
 <div align="center"> 
 </br>
-  <img src="./gcxnn-b.png" width="400">
+  <img src="./gcxnn.png" width="400">
 </div>
 
 
