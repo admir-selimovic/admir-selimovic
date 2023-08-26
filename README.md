@@ -13,7 +13,7 @@ Research Scientist
 ### 🧪 Current work 
 
 <div align="center"> 
-  <a href="https://github.com/username/gcxnn">Geometric Cell Complex Neural Networks</a>
+  <a href="https://github.com/username/gcnn">Geometric Cell Complex Neural Networks</a>
 </br>
   <img src="./gcxnn.png" width="400">
   
