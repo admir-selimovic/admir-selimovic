@@ -5,12 +5,12 @@ Admir Selimovic
 Research Scientist
 ------------------
 
-* 🌍 I'm based in Zurich, Switzerland
-* ✉️ You can contact me at [admirselimovic@gmail.com](mailto:admirselimovic@gmail.com)
+* 🌍 Zurich, Switzerland
+* ✉️ [admirselimovic@gmail.com](mailto:admirselimovic@gmail.com)
 
 
 ---
-### 🧪 Currently working on: 
+### 🧪 Current work: 
 
 <div align="center"> 
   <a href="https://github.com/username/gcxnn">Geometric Cell Complex Neural Networks</a>
