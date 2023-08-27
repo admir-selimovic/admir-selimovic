@@ -10,7 +10,7 @@ Research Scientist
 
 
 ---
-### 🧪 Current work 
+### 🧪 Current work: 
 
 <div align="center"> 
   <a href="https://github.com/admir-selimovic/gcnn">Geometric Complex Neural Networks</a>
