@@ -28,7 +28,7 @@ Geometric Cell Complex Neural Networks (GCXNN) is a model designed for represent
 #### 3DGS20 - Force Prediction in 3D Structural Design with GCXNN
 
 <div align="center"> 
-  <img src="https://github.com/admir-selimovic/3dgs20-force-prediction/blob/main/img/mae-sh.png" width="400">
+  <img src="https://github.com/admir-selimovic/3dgs20-force-prediction/blob/main/img/3d_graphic_statics_data_example_prepro-annot-v3.png" width="400">
 </div>
 
 #### About
