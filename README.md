@@ -10,17 +10,42 @@ Research Scientist
 
 
 ---
-### 🧪 Current work: 
+# 🧪 Current work: 
 
 <div align="center"> 
-  <a href="https://github.com/admir-selimovic/gcnn">Geometric Complex Neural Networks</a>
+  <a href="https://github.com/admir-selimovic/gcnn">Geometric Complex Neural Networks (GCXNN)</a>
 </br>
   <img src="./gcxnn.png" width="400">
-  
 </div>
 
 
-### Stack
+# Featured Projects:
+
+<div align="center"> 
+  <a href="https://github.com/admir-selimovic/3dgs20-force-prediction">3DGS20 - Force Prediction in 3D Structural Design with GCXNN</a>
+</br>
+  <img src="https://github.com/admir-selimovic/3dgs20-force-prediction/blob/main/img/mae-sh.png" width="400">
+</div>
+
+
+### About
+Force prediction in 3D structural design using GCXNN. The dataset comprises 30,000 1-complexes, each containing 20 0-cells and 34 1-cells. The model utilizes composite harmonic expansions and Clebsch-Gordan tensor products for effective force prediction.
+
+🔗 [GitHub Repository](https://github.com/your_username/3DGS20)
+
+### Key Features
+- **High Accuracy**: Achieves a MAE of **.0186±.00015** in force prediction.
+- **Efficient**: Forward times for a batch size of 64 samples are executed on a GeForce RTX 3090 Ti GPU.
+- **Comprehensive Dataset**: Includes 30,000 1-complexes for robust training and validation.
+
+For more details, check out the [full documentation](link_to_full_documentation).
+
+
+
+
+
+
+# Stack
 
 
 <p align="left">
