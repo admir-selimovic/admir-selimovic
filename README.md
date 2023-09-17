@@ -19,7 +19,7 @@ Research Scientist
 </div>
 
 
-# Featured Projects:
+# Recent Projects:
 
 <div align="center"> 
   <a href="https://github.com/admir-selimovic/3dgs20-force-prediction">3DGS20 - Force Prediction in 3D Structural Design with GCXNN</a>
