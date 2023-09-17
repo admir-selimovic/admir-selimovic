@@ -13,12 +13,14 @@ Research Scientist
 ### 🧪 Current work
 
 <div align="center"> 
-  <a href="https://github.com/admir-selimovic/gcnn">Geometric Complex Neural Networks (GCXNN)</a>
+  <a>Geometric Complex Neural Networks (GCXNN)</a>
 </br>
   <img src="./gcxnn.png" width="400">
 </div>
 
-### About
+#### About
+
+🔗 [GitHub Repository](https://github.com/admir-selimovic/gcxnn)
 
 ### Recent Projects
 
@@ -29,17 +31,11 @@ Research Scientist
 </div>
 
 
-### About
+#### About
 An experiment in learning the magnitude and direction of compression forces in complex 3D structures. Utilising a dataset of 30,000 cell complexes, the model captures intricate interactions between 0-cells and 1-cells to predict resultant force vectors. 
 
 🔗 [GitHub Repository](https://github.com/admir-selimovic/3dgs20-force-prediction)
 
-### Key Features
-- **High Accuracy**: Achieves a MAE of **.0186±.00015** in force prediction.
-- **Efficient**: Forward times for a batch size of 64 samples are executed on a GeForce RTX 3090 Ti GPU.
-- **Comprehensive Dataset**: Includes 30,000 1-complexes for robust training and validation.
-
-For more details, check out the [full documentation](link_to_full_documentation).
 
 
 
