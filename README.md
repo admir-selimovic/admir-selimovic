@@ -8,28 +8,28 @@ Research Scientist
 * 🌍 Zurich, Switzerland
 * ✉️ [admirselimovic@gmail.com](mailto:admirselimovic@gmail.com)
 
-
 ---
 ### 🧪 Current work
 
+#### Geometric Cell Complex Neural Networks (GCXNN)
+
 <div align="center"> 
-  <a>Geometric Complex Neural Networks (GCXNN)</a>
-</br>
   <img src="./gcxnn.png" width="400">
 </div>
 
-#### About
+##### About
+
+Geometric Cell Complex Neural Networks (GCXNN) is a model designed for representation learning on cell complexes. The architecture maintains $G$-morphism under $\mathrm{E}(3)$ group transformations and is engineered to work with geometric quantities. The **Geometric Complex Message Passing Mechanism** allows for the diffusion of directional information across the network, facilitating the learning of higher-order representations.
 
 🔗 [GitHub Repository](https://github.com/admir-selimovic/gcxnn)
 
 ### Recent Projects
 
+#### 3DGS20 - Force Prediction in 3D Structural Design with GCXNN
+
 <div align="center"> 
-  <a>3DGS20 - Force Prediction in 3D Structural Design with GCXNN</a>
-</br>
   <img src="https://github.com/admir-selimovic/3dgs20-force-prediction/blob/main/img/mae-sh.png" width="400">
 </div>
-
 
 #### About
 An experiment in learning the magnitude and direction of compression forces in complex 3D structures. Utilising a dataset of 30,000 cell complexes, the model captures intricate interactions between 0-cells and 1-cells to predict resultant force vectors. 
@@ -37,13 +37,7 @@ An experiment in learning the magnitude and direction of compression forces in c
 🔗 [GitHub Repository](https://github.com/admir-selimovic/3dgs20-force-prediction)
 
 
-
-
-
-
-
 # Stack
-
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
