@@ -6,9 +6,7 @@
 
 ## Recent Projects
 
-### Geometric Cell Complex Neural Networks (GCXNN)
-
-🔗 [GitHub Repository](https://github.com/admir-selimovic/gcxnn)
+### [Geometric Cell Complex Neural Networks (GCXNN)](https://github.com/admir-selimovic/gcxnn)
 
 <div align="center"> 
   <img src="./gcxnn.png" width="400">
@@ -17,9 +15,7 @@
 Geometric Cell Complex Neural Networks (GCXNN) is a model designed for representation learning on cell complexes. The architecture maintains $G$-morphism under $\mathrm{E}(3)$ group transformations and is engineered to work with geometric quantities. The **Geometric Complex Message Passing Mechanism** allows for the diffusion of directional information across the network, facilitating the learning of higher-order representations.
 
 
-### 3DGS20 - Force Prediction in 3D Structural Design with GCXNN
-
-🔗 [GitHub Repository](https://github.com/admir-selimovic/3dgs20-force-prediction)
+### [3DGS20 - Force Prediction in 3D Structural Design with GCXNN](https://github.com/admir-selimovic/3dgs20-force-prediction)
 
 <div align="center"> 
   <img src="https://github.com/admir-selimovic/3dgs20-force-prediction/blob/main/img/3d_graphic_statics_data_example_prepro-annot-v3.png" width="400">
