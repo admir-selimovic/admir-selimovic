@@ -1,14 +1,9 @@
 [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
-Admir Selimovic
-=======================================================================================================================================
-
-Research Scientist
-------------------
 
 * 🌍 Zurich, Switzerland
 * ✉️ [admirselimovic@gmail.com](mailto:admirselimovic@gmail.com)
 
----
+
 ## Recent Projects
 
 ### Geometric Cell Complex Neural Networks (GCXNN)
@@ -19,11 +14,8 @@ Research Scientist
   <img src="./gcxnn.png" width="400">
 </div>
 
-#### About
-
 Geometric Cell Complex Neural Networks (GCXNN) is a model designed for representation learning on cell complexes. The architecture maintains $G$-morphism under $\mathrm{E}(3)$ group transformations and is engineered to work with geometric quantities. The **Geometric Complex Message Passing Mechanism** allows for the diffusion of directional information across the network, facilitating the learning of higher-order representations.
 
----
 
 ### 3DGS20 - Force Prediction in 3D Structural Design with GCXNN
 
@@ -33,10 +25,8 @@ Geometric Cell Complex Neural Networks (GCXNN) is a model designed for represent
   <img src="https://github.com/admir-selimovic/3dgs20-force-prediction/blob/main/img/3d_graphic_statics_data_example_prepro-annot-v3.png" width="400">
 </div>
 
-### About
 An experiment in learning the magnitude and direction of compression forces in complex 3D structures. Utilising a dataset of 30,000 cell complexes, the model captures intricate interactions between 0-cells and 1-cells to predict resultant force vectors. 
 
----
 
 ## Stack
 
