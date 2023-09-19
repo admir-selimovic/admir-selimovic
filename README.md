@@ -30,6 +30,7 @@ An experiment in learning the magnitude and direction of compression forces in c
   <img src="https://github.com/admir-selimovic/g-morphic-conv/blob/main/img/g-morph-conv-diag.png" width="400">
 </div>
 
+Group-theoretic study of $G$-morphism in convolution.
 
 
 ## Stack
