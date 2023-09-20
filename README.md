@@ -18,7 +18,7 @@ Geometric Cell Complex Neural Networks (GCXNN) is a model designed for represent
 ### [3DGS20 Dataset](https://github.com/admir-selimovic/3dgs20-dataset)
 
 <div align="center"> 
-  <img src="https://github.com/admir-selimovic/3dgs20-dataset/blob/main/img/3dgs20.png" width="400">
+  <img src="https://github.com/admir-selimovic/3dgs20-dataset/blob/main/img/3dgs20.png" width="300">
 </div>
 
 
