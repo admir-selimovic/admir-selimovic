@@ -31,7 +31,7 @@ Geometric Cell Complex Neural Networks (GCXNN) is a model designed for represent
 An experiment in learning the magnitude and direction of compression forces in complex 3D structures. Utilising a dataset of 30,000 cell complexes, the model captures intricate interactions between 0-cells and 1-cells to predict resultant force vectors. 
 
 
-### [G-morphic Convolution](https://github.com/admir-selimovic/g-morphic-conv)
+### [G-Morphic Convolution](https://github.com/admir-selimovic/g-morphic-conv)
 
 <div align="center"> 
   <img src="https://github.com/admir-selimovic/g-morphic-conv/blob/main/img/g-morph-conv-diag.png" width="400">
