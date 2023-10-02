@@ -40,6 +40,14 @@ An experiment in learning the magnitude and direction of compression forces in c
 Group-theoretic study of $G$-morphism in convolution.
 
 
+### [Exsiccatae Segment](https://github.com/admir-selimovic/exsiccatae-segment)
+
+<div align="center"> 
+  <img src="https://github.com/admir-selimovic/exsiccatae-segment/blob/main/img/exsiccatae-segment.png" width="400">
+</div>
+
+
+
 ## Stack
 
 <p align="left">
