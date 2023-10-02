@@ -40,13 +40,13 @@ An experiment in learning the magnitude and direction of compression forces in c
 Group-theoretic study of $G$-morphism in convolution.
 
 
-### [Exsiccatae Segment](https://github.com/admir-selimovic/exsiccatae-segment)
+### [Exsiccatum](https://github.com/admir-selimovic/exsiccatum)
 
 <div align="center"> 
-  <img src="https://github.com/admir-selimovic/exsiccatae-segment/blob/main/img/exsiccatae-segment.png" width="400">
+  <img src="https://github.com/admir-selimovic/exsiccatum/blob/main/img/exsiccatum.png" width="400">
 </div>
 
-A Computer Vision project in exsiccatae image segmentation and background removal.
+A Computer Vision project in image segmentation and background removal.
 
 ## Stack
 
