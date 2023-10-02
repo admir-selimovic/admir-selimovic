@@ -34,7 +34,7 @@ An experiment in learning the magnitude and direction of compression forces in c
 ### [G-Morphic Convolution](https://github.com/admir-selimovic/g-morphic-conv)
 
 <div align="center"> 
-  <img src="https://github.com/admir-selimovic/g-morphic-conv/blob/main/img/g-morph-conv-diag.png" width="400">
+  <img src="https://github.com/admir-selimovic/g-morphic-conv/blob/main/img/g-morph-conv-diag.png" width="300">
 </div>
 
 Group-theoretic study of $G$-morphism in convolution.
@@ -46,7 +46,7 @@ Group-theoretic study of $G$-morphism in convolution.
   <img src="https://github.com/admir-selimovic/exsiccatae-segment/blob/main/img/exsiccatae-segment.png" width="400">
 </div>
 
-
+A Computer Vision project in exsiccatae image segmentation and background removal.
 
 ## Stack
 
