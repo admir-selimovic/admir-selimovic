@@ -17,12 +17,22 @@ Geometric Cell Complex Neural Networks (GCXNN) is a model designed for represent
 
 ### [3DGS20 Dataset](https://github.com/admir-selimovic/3dgs20-dataset)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+
+
 <div align="center"> 
   <img src="https://github.com/admir-selimovic/3dgs20-dataset/blob/main/img/3dgs20-2.png" width="300">
 </div>
 
 
 ### [3DGS20 - Force Prediction in 3D Structural Design with GCXNN](https://github.com/admir-selimovic/3dgs20-force-prediction)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+
 
 <div align="center"> 
   <img src="https://github.com/admir-selimovic/3dgs20-force-prediction/blob/main/img/3d_graphic_statics_data_example_prepro-annot-v3.png" width="400">
@@ -32,6 +42,12 @@ An experiment in learning the magnitude and direction of compression forces in c
 
 
 ### [G-Morphic Convolution](https://github.com/admir-selimovic/g-morphic-conv)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-007ACC) 
+![Computer Graphics](https://img.shields.io/badge/Convolution-8A2BE2) 
+![Computer Graphics](https://img.shields.io/badge/Theory/Mathematics-FF4500) 
+
+![LaTeX](https://img.shields.io/badge/LaTeX-000000?style=flat&logo=latex&logoColor=white)
+
 
 <div align="center"> 
   <img src="https://github.com/admir-selimovic/g-morphic-conv/blob/main/img/g-morph-conv-diag.png" width="300">
@@ -40,7 +56,15 @@ An experiment in learning the magnitude and direction of compression forces in c
 Group-theoretic study of $G$-morphism in convolution.
 
 
-### [Exsiccatum](https://github.com/admir-selimovic/exsiccatum)
+
+
+
+### [Exsiccatum](https://github.com/admir-selimovic/exsiccatum) 
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-007ACC) 
+![Computer Graphics](https://img.shields.io/badge/Image%20Segmentation-8A2BE2) 
+
+![Wolfram Mathematica](https://img.shields.io/badge/Wolfram%20Mathematica-DD1100?style=flat&logo=wolfram-mathematica)
+
 
 <div align="center"> 
   <img src="https://github.com/admir-selimovic/exsiccatum/blob/main/img/exsiccatum.png" width="400">
