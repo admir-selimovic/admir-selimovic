@@ -8,6 +8,8 @@
 
 ### [Geometric Cell Complex Neural Networks (GCXNN)](https://github.com/admir-selimovic/gcxnn)
 
+![Theory/Mathematics](https://img.shields.io/badge/Theory/Mathematics-FF4500) 
+
 <div align="center"> 
   <img src="./gcxnn.png" width="400">
 </div>
@@ -17,7 +19,6 @@ Geometric Cell Complex Neural Networks (GCXNN) is a model designed for represent
 
 ### [3DGS20 Dataset](https://github.com/admir-selimovic/3dgs20-dataset)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 
@@ -43,8 +44,8 @@ An experiment in learning the magnitude and direction of compression forces in c
 
 ### [G-Morphic Convolution](https://github.com/admir-selimovic/g-morphic-conv)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-007ACC) 
-![Computer Graphics](https://img.shields.io/badge/Convolution-8A2BE2) 
-![Computer Graphics](https://img.shields.io/badge/Theory/Mathematics-FF4500) 
+![Convolution](https://img.shields.io/badge/Convolution-8A2BE2) 
+![Theory/Mathematics](https://img.shields.io/badge/Theory/Mathematics-FF4500) 
 
 ![LaTeX](https://img.shields.io/badge/LaTeX-000000?style=flat&logo=latex&logoColor=white)
 
@@ -61,7 +62,7 @@ Group-theoretic study of $G$-morphism in convolution.
 
 ### [Exsiccatum](https://github.com/admir-selimovic/exsiccatum) 
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-007ACC) 
-![Computer Graphics](https://img.shields.io/badge/Image%20Segmentation-8A2BE2) 
+![Image Segmentation](https://img.shields.io/badge/Image%20Segmentation-8A2BE2) 
 
 ![Wolfram Mathematica](https://img.shields.io/badge/Wolfram%20Mathematica-DD1100?style=flat&logo=wolfram-mathematica)
 
