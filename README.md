@@ -8,7 +8,10 @@
 
 ### [Geometric Cell Complex Neural Networks (GCXNN)](https://github.com/admir-selimovic/gcxnn)
 
-![Theory/Mathematics](https://img.shields.io/badge/Theory/Mathematics-FF4500) 
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00)
+![Mathematical Modelling](https://img.shields.io/badge/Mathematical%20Modelling-4CAF50)
+![Group Theory](https://img.shields.io/badge/Group%20Theory-FFC107)
+
 
 <div align="center"> 
   <img src="./gcxnn.png" width="400">
@@ -18,6 +21,8 @@ Geometric Cell Complex Neural Networks (GCXNN) is a model designed for represent
 
 
 ### [3DGS20 Dataset](https://github.com/admir-selimovic/3dgs20-dataset)
+
+![Dataset](https://img.shields.io/badge/Dataset-795548)
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
@@ -29,6 +34,8 @@ Geometric Cell Complex Neural Networks (GCXNN) is a model designed for represent
 
 
 ### [3DGS20 - Force Prediction in 3D Structural Design with GCXNN](https://github.com/admir-selimovic/3dgs20-force-prediction)
+
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -43,9 +50,13 @@ An experiment in learning the magnitude and direction of compression forces in c
 
 
 ### [G-Morphic Convolution](https://github.com/admir-selimovic/g-morphic-conv)
+
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-007ACC) 
 ![Convolution](https://img.shields.io/badge/Convolution-8A2BE2) 
-![Theory/Mathematics](https://img.shields.io/badge/Theory/Mathematics-FF4500) 
+![Mathematical Modelling](https://img.shields.io/badge/Mathematical%20Modelling-4CAF50)
+![Group Theory](https://img.shields.io/badge/Group%20Theory-FFC107)
+
 
 ![LaTeX](https://img.shields.io/badge/LaTeX-000000?style=flat&logo=latex&logoColor=white)
 
