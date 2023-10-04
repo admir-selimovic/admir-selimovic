@@ -16,7 +16,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 <div align="center"> 
-  <img src="./gcxnn.png" width="400">
+  <img src="https://github.com/admir-selimovic/gcxnn/blob/main/img/gcxnn.png" width="400">
 </div>
 
 Geometric Cell Complex Neural Networks (GCXNN) is a model designed for representation learning on cell complexes. The architecture maintains $G$-morphism under $\mathrm{E}(3)$ group transformations and is engineered to work with geometric quantities. The **Geometric Complex Message Passing Mechanism** allows for the diffusion of directional information across the network, facilitating the learning of higher-order representations.
