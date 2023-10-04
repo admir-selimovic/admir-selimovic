@@ -12,6 +12,8 @@
 ![Mathematical Modelling](https://img.shields.io/badge/Mathematical%20Modelling-4CAF50)
 ![Group Theory](https://img.shields.io/badge/Group%20Theory-FFC107)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 <div align="center"> 
   <img src="./gcxnn.png" width="400">
