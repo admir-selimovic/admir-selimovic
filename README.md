@@ -85,7 +85,9 @@ Group-theoretic study of $G$-morphism in convolution.
 A Computer Vision project in image segmentation and background removal.
 
 
-### [Exsiccatum](https://github.com/admir-selimovic/glypta) 
+### [Glypta](https://github.com/admir-selimovic/glypta) 
+![3D Computer Graphics](https://img.shields.io/badge/Computer%203D%20Graphics-007ACC) 
+![Geometry Processing](https://img.shields.io/badge/Geometry%20Processing-007ACC) 
 
 ![Wolfram Mathematica](https://img.shields.io/badge/Wolfram%20Mathematica-DD1100?style=flat&logo=wolfram-mathematica)
 
