@@ -71,8 +71,6 @@ Group-theoretic study of $G$-morphism in convolution.
 
 
 
-
-
 ### [Exsiccatum](https://github.com/admir-selimovic/exsiccatum) 
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-007ACC) 
 ![Image Segmentation](https://img.shields.io/badge/Image%20Segmentation-8A2BE2) 
@@ -85,6 +83,18 @@ Group-theoretic study of $G$-morphism in convolution.
 </div>
 
 A Computer Vision project in image segmentation and background removal.
+
+
+### [Exsiccatum](https://github.com/admir-selimovic/glypta) 
+
+![Wolfram Mathematica](https://img.shields.io/badge/Wolfram%20Mathematica-DD1100?style=flat&logo=wolfram-mathematica)
+
+
+<div align="center"> 
+  <img src="https://github.com/admir-selimovic/gylpta/blob/main/img/gylpta.png" width="300">
+</div>
+
+
 
 ## Stack
 
