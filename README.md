@@ -91,7 +91,7 @@ A Computer Vision project in image segmentation and background removal.
 
 
 <div align="center"> 
-  <img src="https://github.com/admir-selimovic/gylpta/blob/main/img/gylpta.png" width="300">
+  <img src="https://github.com/admir-selimovic/glypta/blob/main/img/glypta.png" width="300">
 </div>
 
 
