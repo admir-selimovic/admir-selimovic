@@ -85,7 +85,7 @@ Group-theoretic study of $G$-morphism in convolution.
 A Computer Vision project in image segmentation and background removal.
 
 
-### [Glypta: 3D Shape Feature Engineering](https://github.com/admir-selimovic/glypta) 
+### [Glypta: 3D Shape Feature Engineering for Machine Learning](https://github.com/admir-selimovic/glypta) 
 ![3D Computer Graphics](https://img.shields.io/badge/3D%20Computer%20Graphics-007ACC) 
 ![Geometry Processing](https://img.shields.io/badge/Geometry%20Processing-007ACC) 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-8A2BE2)
