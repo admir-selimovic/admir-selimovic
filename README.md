@@ -67,7 +67,7 @@ An experiment in learning the magnitude and direction of compression forces in c
   <img src="https://github.com/admir-selimovic/g-morphic-conv/blob/main/img/g-morph-conv-diag.png" width="300">
 </div>
 
-Group-theoretic study of $G$-morphism in convolution.
+A group-theoretic study of $G$-morphism in convolution.
 
 
 
@@ -97,7 +97,7 @@ A Computer Vision project in image segmentation and background removal.
   <img src="https://github.com/admir-selimovic/glypta/blob/main/img/glypta.png" width="300">
 </div>
 
-
+A Mathematica-based project dedicated to advanced data processing and point cloud generation from 3D objects. It is primarily designed to perform feature engineering on 3D shapes, making them ready for machine learning applications.
 
 ## Stack
 
