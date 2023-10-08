@@ -84,7 +84,7 @@ A group-theoretic study of $G$-morphism in convolution.
 </div>
 
 
-Advanced data processing and point cloud generation from 3D objects. Designed to perform feature engineering on 3D shapes, making them ready for machine learning applications.
+Advanced 3D shape processing for feature engineering and machine learning readiness.
 
 
 ### [Exsiccatum](https://github.com/admir-selimovic/exsiccatum) 
