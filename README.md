@@ -78,9 +78,11 @@ A group-theoretic study of $G$-morphism in convolution.
 ![Wolfram Mathematica](https://img.shields.io/badge/Wolfram%20Mathematica-DD1100?style=flat&logo=wolfram-mathematica)
 
 
-<div align="center"> 
-  <img src="https://github.com/admir-selimovic/glypta/blob/main/img/glypta.png" width="300">
+<div align="center">
+  <img src="https://github.com/admir-selimovic/glypta/blob/main/img/glypta.png" width="300" style="margin-right: 20px;"> 
+  <img src="https://github.com/admir-selimovic/glypta/blob/main/img/glypta-2.png" width="300">
 </div>
+
 
 Advanced data processing and point cloud generation from 3D objects. Designed to perform feature engineering on 3D shapes, making them ready for machine learning applications.
 
