@@ -40,8 +40,9 @@ Geometric Cell Complex Neural Networks (GCXNN) is a model designed for represent
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-<div align="center"> 
-  <img src="https://github.com/admir-selimovic/3dgs20-force-prediction/blob/main/img/3d_graphic_statics_data_example_prepro-annot-v3.png" width="400">
+<div align="center">
+  <img src="https://github.com/admir-selimovic/3dgs20-force-prediction/blob/main/img/fp-1.png" width="300" style="margin-right: 20px;"> 
+  <img src="https://github.com/admir-selimovic/glypta/blob/main/img/fp-2.png" width="300">
 </div>
 
 An experiment in learning the magnitude and direction of compression forces in complex 3D structures. Utilising a dataset of 30,000 cell complexes, the model captures intricate interactions between 0-cells and 1-cells to predict resultant force vectors. 
