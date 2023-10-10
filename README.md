@@ -28,8 +28,6 @@ Geometric Cell Complex Neural Networks (GCXNN) is a model designed for represent
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-
-
 <div align="center"> 
   <img src="https://github.com/admir-selimovic/3dgs20-dataset/blob/main/img/3dgs20-2.png" width="300">
 </div>
@@ -41,8 +39,6 @@ Geometric Cell Complex Neural Networks (GCXNN) is a model designed for represent
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-
-
 
 <div align="center"> 
   <img src="https://github.com/admir-selimovic/3dgs20-force-prediction/blob/main/img/3d_graphic_statics_data_example_prepro-annot-v3.png" width="400">
@@ -62,7 +58,6 @@ An experiment in learning the magnitude and direction of compression forces in c
 
 ![LaTeX](https://img.shields.io/badge/LaTeX-000000?style=flat&logo=latex&logoColor=white)
 
-
 <div align="center"> 
   <img src="https://github.com/admir-selimovic/g-morphic-conv/blob/main/img/g-morph-conv-diag.png" width="300">
 </div>
@@ -76,7 +71,6 @@ A group-theoretic study of $G$-morphism in convolution.
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-8A2BE2)
 
 ![Wolfram Mathematica](https://img.shields.io/badge/Wolfram%20Mathematica-DD1100?style=flat&logo=wolfram-mathematica)
-
 
 <div align="center">
   <img src="https://github.com/admir-selimovic/glypta/blob/main/img/glypta.png" width="300" style="margin-right: 20px;"> 
@@ -92,7 +86,6 @@ Advanced 3D shape processing for feature engineering and machine learning readin
 ![Image Segmentation](https://img.shields.io/badge/Image%20Segmentation-8A2BE2) 
 
 ![Wolfram Mathematica](https://img.shields.io/badge/Wolfram%20Mathematica-DD1100?style=flat&logo=wolfram-mathematica)
-
 
 <div align="center"> 
   <img src="https://github.com/admir-selimovic/exsiccatum/blob/main/img/exsiccatum.png" width="300">
