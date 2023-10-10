@@ -60,7 +60,7 @@ An experiment in learning the magnitude and direction of compression forces in c
 ![LaTeX](https://img.shields.io/badge/LaTeX-000000?style=flat&logo=latex&logoColor=white)
 
 <div align="center"> 
-  <img src="https://github.com/admir-selimovic/g-morphic-conv/blob/main/img/g-morph-conv-diag.png" width="300">
+  <img src="https://github.com/admir-selimovic/g-morphic-conv/blob/main/img/g-morph-conv.png" width="300">
 </div>
 
 A group-theoretic study of $G$-morphism in convolution.
