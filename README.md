@@ -4,9 +4,9 @@
 * ✉️ [admirselimovic@gmail.com](mailto:admirselimovic@gmail.com)
 
 
-## Recent Projects
+## Projects
 
-### [Geometric Cell Complex Neural Networks (GCXNN)](https://github.com/admir-selimovic/gcxnn)
+### [(Upcoming) Geometric Cell Complex Neural Networks (GCXNN)](https://github.com/admir-selimovic/gcxnn)
 
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00)
 ![Mathematical Modelling](https://img.shields.io/badge/Mathematical%20Modelling-4CAF50)
@@ -36,7 +36,7 @@ Geometric Cell Complex Neural Networks (GCXNN) is a model designed for represent
 </div>
 
 
-### [3DGS20 Dataset](https://github.com/admir-selimovic/3dgs20-dataset)
+### [(Upcoming) 3DGS20 Dataset](https://github.com/admir-selimovic/3dgs20-dataset)
 
 ![Dataset](https://img.shields.io/badge/Dataset-795548)
 
