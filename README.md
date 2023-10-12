@@ -25,7 +25,7 @@ Geometric Cell Complex Neural Networks (GCXNN) is a model designed for represent
 ### [Hidden States Stability under SO(3) Transformations in Message-Passing Neural Networks ](https://github.com/admir-selimovic/mpnn)
 
 <div align="center"> 
-  <img src="https://github.com/admir-selimovic/mpnn/blob/main/assets/mpnn-vid.gif" width="300">
+  <img src="https://github.com/admir-selimovic/mpnn/blob/main/assets/mpnn-v.gif" width="300">
 </div>
 
 
