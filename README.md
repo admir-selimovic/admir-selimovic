@@ -32,7 +32,7 @@ Geometric Cell Complex Neural Networks (GCXNN) is a model designed for represent
 ![PyTorch Lightning](https://img.shields.io/badge/PyTorch%20Lightning-792EE5?style=flat&logo=lightning&logoColor=white)
 
 <div align="center"> 
-  <img src="https://github.com/admir-selimovic/mpnn/blob/main/assets/mpnn-v.gif" width="300">
+  <img src="https://github.com/admir-selimovic/mpnn/blob/main/assets/mpnn.png" width="300">
 </div>
 
 
