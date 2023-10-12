@@ -24,6 +24,10 @@ Geometric Cell Complex Neural Networks (GCXNN) is a model designed for represent
 
 ### [Message-Passing Neural Networks](https://github.com/admir-selimovic/mpnn)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![PyTorch Lightning](https://img.shields.io/badge/PyTorch%20Lightning-792EE5?style=flat&logo=lightning&logoColor=white)
+
 <div align="center"> 
   <img src="https://github.com/admir-selimovic/mpnn/blob/main/assets/mpnn-v.gif" width="300">
 </div>
