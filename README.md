@@ -38,6 +38,14 @@ Geometric Cell Complex Neural Networks (GCXNN) is a model designed for represent
 
 ### [(Upcoming) E(n) Equivariant Graph Neural Networks](https://github.com/admir-selimovic/egnn)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![PyG](https://img.shields.io/badge/PyG-3C2179?style=flat&logo=pyg&logoColor=white)
+![PyTorch Lightning](https://img.shields.io/badge/PyTorch%20Lightning-792EE5?style=flat&logo=lightning&logoColor=white)
+
+<div align="center"> 
+  <img src="https://github.com/admir-selimovic/egnn/blob/main/assets/egnn.png" width="300">
+</div>
 
 ### [(Upcoming) 3DGS20 Dataset](https://github.com/admir-selimovic/3dgs20-dataset)
 
