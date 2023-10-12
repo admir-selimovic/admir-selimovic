@@ -22,6 +22,13 @@
 Geometric Cell Complex Neural Networks (GCXNN) is a model designed for representation learning on cell complexes. The architecture maintains $G$-morphism under $\mathrm{E}(3)$ group transformations and is engineered to work with geometric quantities. The **Geometric Complex Message Passing Mechanism** allows for the diffusion of directional information across the network, facilitating the learning of higher-order representations.
 
 
+### [Hidden States Stability under SO(3) Transformations in Message-Passing Neural Networks ](https://github.com/admir-selimovic/mpnn)
+
+<div align="center"> 
+  <img src="https://github.com/admir-selimovic/mpnn/blob/main/assets/mpnn-vid.gif" width="300">
+</div>
+
+
 ### [3DGS20 Dataset](https://github.com/admir-selimovic/3dgs20-dataset)
 
 ![Dataset](https://img.shields.io/badge/Dataset-795548)
@@ -93,6 +100,7 @@ Advanced 3D shape processing for feature engineering and machine learning readin
 </div>
 
 A Computer Vision project in image segmentation and background removal.
+
 
 ## Stack
 
