@@ -108,6 +108,7 @@ A group-theoretic study of $G$-morphism in convolution.
 ### [Glypta: 3D Shape Feature Engineering for Machine Learning](https://github.com/admir-selimovic/glypta) 
 ![3D Computer Graphics](https://img.shields.io/badge/3D%20Computer%20Graphics-007ACC) 
 ![Geometry Processing](https://img.shields.io/badge/Geometry%20Processing-007ACC) 
+![Differential Geometry](https://img.shields.io/badge/Differential%20Geometry-20B2AA)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-8A2BE2)
 
 ![Wolfram Mathematica](https://img.shields.io/badge/Wolfram%20Mathematica-DD1100?style=flat&logo=wolfram-mathematica)
