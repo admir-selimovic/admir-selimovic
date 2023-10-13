@@ -91,7 +91,7 @@ An experiment in learning the magnitude and direction of compression forces in c
 
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-007ACC) 
-![Convolution](https://img.shields.io/badge/Convolution-8A2BE2) 
+![Convolution Theory](https://img.shields.io/badge/Convolutional%20Theory-00BFFF)
 ![Mathematical Modelling](https://img.shields.io/badge/Mathematical%20Modelling-4CAF50)
 ![Group Theory](https://img.shields.io/badge/Group%20Theory-FFC107)
 
