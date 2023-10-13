@@ -122,17 +122,17 @@ A group-theoretic study of $G$-morphism in convolution.
 Advanced 3D shape processing for feature engineering and machine learning readiness.
 
 
-### [Exsiccatum](https://github.com/admir-selimovic/exsiccatum) 
+### [Folium](https://github.com/admir-selimovic/folium) 
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-007ACC) 
 ![Image Segmentation](https://img.shields.io/badge/Image%20Segmentation-8A2BE2) 
 
 ![Wolfram Mathematica](https://img.shields.io/badge/Wolfram%20Mathematica-DD1100?style=flat&logo=wolfram-mathematica)
 
 <div align="center"> 
-  <img src="https://github.com/admir-selimovic/exsiccatum/blob/main/img/exsiccatum.png" width="300">
+  <img src="https://github.com/admir-selimovic/folium/blob/main/img/folium.png" width="300">
 </div>
 
-A Computer Vision project in image segmentation and background removal.
+A Computer Vision application in exsiccatum image segmentation and background removal.
 
 
 ## Stack
