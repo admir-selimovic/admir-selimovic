@@ -6,7 +6,7 @@
 
 ## Projects
 
-### [(Upcoming) Geometric Cell Complex Neural Networks (GCXNN)](https://github.com/admir-selimovic/gcxnn)
+### [(Upcoming) Geometric Cell Complex Neural Networks](https://github.com/admir-selimovic/gcxnn)
 
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00)
 ![Mathematical Modelling](https://img.shields.io/badge/Mathematical%20Modelling-4CAF50)
@@ -21,7 +21,7 @@
   <img src="https://github.com/admir-selimovic/gcxnn/blob/main/img/gcxnn.png" width="300">
 </div>
 
-Geometric Cell Complex Neural Networks (GCXNN) is a model designed for representation learning on cell complexes. The architecture maintains $G$-morphism under $\mathrm{E}(3)$ group transformations and is engineered to work with geometric quantities. The **Geometric Complex Message Passing Mechanism** allows for the diffusion of directional information across the network, facilitating the learning of higher-order representations.
+Geometric Cell Complex Neural Networks is a model designed for representation learning on cell complexes. The architecture maintains $G$-morphism under $\mathrm{E}(3)$ group transformations and is engineered to work with geometric quantities. The **Geometric Complex Message Passing Mechanism** allows for the diffusion of directional information across the network, facilitating the learning of higher-order representations.
 
 
 ### [Representation Stability under 3D Rotation in Message Passing Neural Networks](https://admir-selimovic.github.io/articles/rep-sta/a.html)
