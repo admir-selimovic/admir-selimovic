@@ -6,7 +6,7 @@
 
 ## Projects
 
-### [(Upcoming) Geometric Cell Complex Neural Networks](https://github.com/admir-selimovic/gcxnn)
+### [Geometric Cell Complex Neural Networks](https://admir-selimovic.github.io/articles/gccnn/a.html)
 
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00)
 ![Mathematical Modelling](https://img.shields.io/badge/Mathematical%20Modelling-4CAF50)
