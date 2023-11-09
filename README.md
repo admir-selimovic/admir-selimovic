@@ -105,22 +105,6 @@ An experiment in learning the magnitude and direction of compression forces in c
 A group-theoretic study of $G$-morphism in convolution.
 
 
-### [Glypta: 3D Shape Feature Engineering for Machine Learning](https://github.com/admir-selimovic/glypta) 
-![3D Computer Graphics](https://img.shields.io/badge/3D%20Computer%20Graphics-007ACC) 
-![Geometry Processing](https://img.shields.io/badge/Geometry%20Processing-FF69B4) 
-![Differential Geometry](https://img.shields.io/badge/Differential%20Geometry-20B2AA)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6B6B)
-
-![Wolfram Mathematica](https://img.shields.io/badge/Wolfram%20Mathematica-DD1100?style=flat&logo=wolfram-mathematica)
-
-<div align="center">
-  <img src="https://github.com/admir-selimovic/glypta/blob/main/img/glypta.png" width="300" style="margin-right: 20px;"> 
-  <img src="https://github.com/admir-selimovic/glypta/blob/main/img/glypta-2.png" width="300">
-</div>
-
-
-Advanced 3D shape processing for feature engineering and machine learning readiness.
-
 
 ### [Folium](https://github.com/admir-selimovic/folium) 
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-007ACC) 
