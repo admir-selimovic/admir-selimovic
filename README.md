@@ -48,17 +48,6 @@ Geometric Cell Complex Neural Networks is a model designed for representation le
 </div>
 
 
-### [(Upcoming) E(n) Equivariant Graph Neural Networks](https://github.com/admir-selimovic/egnn)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![PyG](https://img.shields.io/badge/PyG-3C2179?style=flat&logo=pyg&logoColor=white)
-![PyTorch Lightning](https://img.shields.io/badge/PyTorch%20Lightning-792EE5?style=flat&logo=lightning&logoColor=white)
-
-<div align="center"> 
-  <img src="https://github.com/admir-selimovic/egnn/blob/main/assets/egnn.png" width="300">
-</div>
-
 ### [(Upcoming) 3DGS20 Dataset](https://github.com/admir-selimovic/3dgs20-dataset)
 
 ![Open Dataset](https://img.shields.io/badge/Open%20Dataset-9966CC)
@@ -85,24 +74,6 @@ Geometric Cell Complex Neural Networks is a model designed for representation le
 </div>
 
 An experiment in learning the magnitude and direction of compression forces in complex 3D structures. Utilising a dataset of 30,000 cell complexes, the model captures intricate interactions between 0-cells and 1-cells to predict resultant force vectors. 
-
-
-### [G-Morphic Convolution](https://github.com/admir-selimovic/g-morphic-conv)
-
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-007ACC) 
-![Convolution Theory](https://img.shields.io/badge/Convolutional%20Theory-00BFFF)
-![Mathematical Modelling](https://img.shields.io/badge/Mathematical%20Modelling-4CAF50)
-![Group Theory](https://img.shields.io/badge/Group%20Theory-FFC107)
-
-
-![LaTeX](https://img.shields.io/badge/LaTeX-000000?style=flat&logo=latex&logoColor=white)
-
-<div align="center"> 
-  <img src="https://github.com/admir-selimovic/g-morphic-conv/blob/main/img/g-morph-conv.png" width="300">
-</div>
-
-A group-theoretic study of $G$-morphism in convolution.
 
 
 
